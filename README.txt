@@ -8,6 +8,9 @@ Data files associated with Aguirre et al (2024). Effects of herbivory on floral 
 
 Study designed by Luis A. Aguirre, Lynn S. Adler and Nina Theis. Data collected  and processed by Luis A. Aguirre, Jaye Pak, Simon Abbott and Nina Theis. Data analyzed by Luis A. Aguirre and Seanne R. Clemente.
 
+# INSTRUCTIONS FOR RUNNING
+For ease, download the milkweed.zip file and run the .R code. 
+
 ---
 # METADATA
 **FILENAME:** 2019_all_traits.csv
